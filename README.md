@@ -43,7 +43,7 @@ The script will ask you for the directory of the video you want to release. This
 * the video file and  
 * the thumbnail file.
 
-The video and thumbnail files must have the same name as the directory. The video file must a .mp4-file and the
+The video and thumbnail files must have the same name as the directory. The video file must be a .mp4-file and the
 thumbnail file must be a .png-file. This tool does not check the integrity of these files, it only copies them.
 
 The tool will also check for this directory and all parent directories, up to the directory the tool is installed, for
@@ -52,7 +52,7 @@ The tool will also check for this directory and all parent directories, up to th
 * a textfile containing the description (*description.txt*)
 
 and combines them into one file. If the number of characters exceeds YouTubes limit, a warning will be shown. After the
-the product creation has finished, the folder will be opened for your convenience on supported platforms.
+product creation has finished, the folder will be opened for your convenience on supported platforms.
 
 ## Support
 
